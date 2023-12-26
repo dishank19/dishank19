@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dishank19" alt="dishank19" /></a> </p>
 
-- 📫 How to reach me [**djhaveri@umass.edu**](djhaveri@umass.edu)
+- 📫 Reach Out to me here : [**djhaveri@umass.edu**](djhaveri@umass.edu)
 
 - 📄 Know about my experiences [Resume!](https://drive.google.com/file/d/16ynZ0utGSeW4n91BVuLCUennULJkULAV/view?usp=sharing)
 
