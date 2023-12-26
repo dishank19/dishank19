@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Dishank</h1>
 <h3 align="center">MSCS Student at Umass Amherst with a special interest in Large Language Models.</h3>
 
