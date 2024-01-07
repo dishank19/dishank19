@@ -8,7 +8,7 @@
 
 - 📫 Reach Out to me here : [**djhaveri@umass.edu**](djhaveri@umass.edu)
 
-- 📄 Know about my experiences [Resume!](https://drive.google.com/file/d/16ynZ0utGSeW4n91BVuLCUennULJkULAV/view?usp=sharing)
+- 📄 Know about my experiences [Resume!]([https://drive.google.com/file/d/16ynZ0utGSeW4n91BVuLCUennULJkULAV/view?usp=sharing](https://drive.google.com/file/d/1f62JGBI29qqHSyF1gesvr5Q4_17zk7ak/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
