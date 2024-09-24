@@ -1,52 +1,47 @@
-.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.
-|  ____ _     _                 _      _ _                  |
-| |  _ (_)___| |__   __ _ _ __ | | __ | | |__   __ ___   ___| |_ 
-| | | | / __| '_ \ / _` | '_ \| |/ / | | '_ \ / _` \ \ / / | __|
-| | |_| \__ \ | | | (_| | | | |   <  | | | | | (_| |\ V /| | |_ 
-| |____/|___/_| |_|\__,_|_| |_|_|\_\ |_|_| |_|\__,_| \_/ |_|\__|
-|                                                        |
-'--'--'--'--'--'--'--'--'--'--'--'--'--'--'--'--'--'--'--'
+# Hello, I'm Dishank Jhaveri
 
-MS in Computer Science @ UMass Amherst | LLM Enthusiast
-.................................................
+> MS in Computer Science @ UMass Amherst
+-----------------------------------------------------------------------------------------------------------
 
-:: About Me ::
-+-------------+
-| > Grad Student Researcher @ Graphite.io
-| > Teaching Assistant for CS420 @ UMass
-| > Ex-Data Science Intern @ Street Style Store
-+-------------+
+- Graduate Student Researcher @ Graphite.io
+- Teaching Assistant for CS420 @ UMass Amherst
+- Former Data Science Intern @ Street Style Store
+  
+----------------------------------------------------------------------------------------------------------
 
-:: Education ::
-+-------------+
-| > MS, Computer Science - UMass Amherst (2024)
-| > BTech, Computer Science - VIT (2022)
-+-------------+
+| Degree | Institution | Year |
+|--------|-------------|------|
+| MS, Computer Science | University of Massachusetts, Amherst | Expected 2024 |
+| BTech, Computer Science | Vellore Institute of Technology | 2022 |
 
-:: Skills ::
-+-------------+
-| > Python | JavaScript | SQL | Java | C/C++
-| > PyTorch | Scikit-Learn | Numpy | Pandas
-| > ReactJS | Django | NodeJS | MongoDB
-+-------------+
+-----------------------------------------------------------------------------------------------------------
 
-:: Connect ::
-+-------------+
-| @ djhaveri@umass.edu
-| # linkedin.com/in/dishankjhaveri
-| $ github.com/dishank19
-+-------------+
+## Skills
 
-:: Featured Projects ::
-+-------------+
-| 1. AskHistorians GPT
-|    |-- Fine-tuned Mistral-7B using QLORA
-| 2. UMass Roommate Finder
-|    |-- Web app for student housing search
-| 3. Driver Alertness System
-|    |-- Computer vision for fatigue detection
-+-------------+
+```python
+skills = {
+    "Languages": ["Python", "JavaScript", "SQL", "Java", "C/C++"],
+    "ML/AI": ["PyTorch", "Scikit-Learn", "Numpy", "Pandas", "LangChain", "LlamaIndex"],
+    "Web Dev": ["ReactJS", "Django", "NodeJS", "MongoDB"]
+}
+```
 
-.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.--.
-| For more, check out my pinned repositories!              |
-'--'--'--'--'--'--'--'--'--'--'--'--'--'--'--'--'--'--'--'
+-----------------------------------------------------------------------------------------------------------
+
+
+[![Email](https://img.shields.io/badge/Email-djhaveri%40umass.edu-blue?style=flat-square&logo=gmail)](mailto:djhaveri@umass.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dishankjhaveri-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/dishankjhaveri)
+[![GitHub](https://img.shields.io/badge/GitHub-dishank19-blue?style=flat-square&logo=github)](https://github.com/dishank19)
+
+-----------------------------------------------------------------------------------------------------------
+
+1. **AskHistorians GPT**
+   - Fine-tuned Mistral-7B using QLORA
+
+2. **UMass Roommate Finder**
+   - Web app for student housing search
+
+3. **Driver Alertness System**
+   - Computer vision for fatigue detection
+
+-----------------------------------------------------------------------------------------------------------
